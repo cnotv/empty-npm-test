@@ -4,7 +4,9 @@
   "description": "Cypress test repository",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "e2e:open": "cypress open",
+    "e2e:run": "cypress run",
+    "e2e:online": "cypress run --record --key 0f11dc0c-c670-4bca-9bae-d5337449c1bc"
   },
   "repository": {
     "type": "git",
