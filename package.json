@@ -1,0 +1,25 @@
+{
+  "name": "empty-npm-test",
+  "version": "0.1.0",
+  "description": "Cypress test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnotv/empty-npm-test.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "cnotv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cnotv/empty-npm-test/issues"
+  },
+  "homepage": "https://github.com/cnotv/empty-npm-test#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
